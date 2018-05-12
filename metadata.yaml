@@ -1,0 +1,51 @@
+_repo: American-Big-Game-HuntingThe-Book-of-the-Boone-and-Crockett-Club_39965
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39965-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Boone and Crockett Club
+    gutenberg_agent_id: '40279'
+    url: http://www.gutenberg.org/2009/agents/40279
+  editors:
+  - agent_name: Grinnell, George Bird
+    birthdate: 1849
+    deathdate: 1938
+    gutenberg_agent_id: '4021'
+    url: http://www.gutenberg.org/2009/agents/4021
+    wikipedia: http://en.wikipedia.org/wiki/George_Bird_Grinnell
+  - agent_name: Roosevelt, Theodore
+    aliases:
+    - United States President (1901-1909)
+    - Roosevelt, Teddy
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '729'
+    url: http://www.gutenberg.org/2009/agents/729
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Roosevelt
+description: ''
+gutenberg_issued: '2012-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39965'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Big game hunting -- United States'
+- !lcc 'SK'
+tableOfContents: The Boone and Crockett Club / Theodore Roosevelt and George Bird
+  Grinnell -- A Buffalo story / George S. Anderson -- The white goat and his country
+  / Owen Wister -- A day with the elk / Winthrop Chanler -- Old times in the Black
+  Hills / Roger D. Williams -- Big game in the Rockies / Archibald Rogers -- Coursing
+  the Prongbuck / Theodore Roosevelt -- After Wapiti in Wyoming / F.C. Crocker --
+  In buffalo days / George Bird Grinnell -- Nights with the grizzlies / W.D. Pickett
+  -- The Yellowstone Park as a game reservation / Arnold Hague -- A mountain fraud
+  / Dean Sage -- Blacktails in the Bad Lands / Bronson Rumsey -- Photographing wild
+  game / W.B. Devereux -- Literature of American big-game hunting -- Our forest reservations
+  -- The Club exhibit at the World's Fair -- Constitution and by-laws of the Club
+  -- List of members.
+title: 'American Big-Game Hunting: The Book of the Boone and Crockett Club'
+url: http://www.gutenberg.org/ebooks/39965
